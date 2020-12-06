@@ -1,0 +1,7 @@
+Algorithm Design, Skeina#3#True
+Eye of the world, Jordan#1#False
+Malay is not gay, Malay#2#True
+Nate works at chik jawns,Nate#5#False
+Fozzy is gay,Fozzy#2#True
+Zack is weird,Zack#2#True
+This book is empty,Jake#0#True
